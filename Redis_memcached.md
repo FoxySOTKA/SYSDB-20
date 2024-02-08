@@ -22,6 +22,7 @@
 #### Результат:
 
 ![memcached](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/7ff0b96d-528d-4750-9ac7-b04e27605d72)
+
 ##### Выполнение команды systemctl status memcached.
 
 ---
@@ -33,6 +34,7 @@
 #### Результат:
 
 ![5key_memcached](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/0a5c35db-0f9e-4a7b-8321-eef6b90b2990)
+
 ##### Демонстрация удаления ключей из базы спустя 5 секунд.
 
 ---

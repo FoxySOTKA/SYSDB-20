@@ -44,5 +44,6 @@
 
 #### Результат:
 
+<img width="764" alt="2logyNginx" src="https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/e520afdb-99b5-43c9-8606-1c33790ef213">
 
 ##### Логи Nginx в интерфейсе Kibana, которые были отправлены через Filebeat.

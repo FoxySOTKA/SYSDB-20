@@ -32,6 +32,7 @@
 
 #### Результат:
 
+<img width="761" alt="logyNginx" src="https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/db6aacf9-99fe-4447-aa3d-8f3d235a9319">
 
 ##### Логи Nginx в интерфейсе Kibana.
 

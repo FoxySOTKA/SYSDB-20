@@ -20,11 +20,8 @@
 Установите и запустите memcached.
 
 #### Результат:
-"C:\Users\seuyl\OneDrive\Изображения\Снимки экрана\memcached.png"
 
 ![memcached](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/7ff0b96d-528d-4750-9ac7-b04e27605d72)
-
-
 
 ---
 
@@ -33,6 +30,8 @@
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
 #### Результат:
+
+<img width="476" alt="key_memcached" src="https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/3ad5ee37-4614-425c-99b3-a117056649e7">
 
 ---
 

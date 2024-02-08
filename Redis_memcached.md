@@ -45,4 +45,8 @@
 
 #### Результат:
 
+![redis-cli](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/e7da963e-8636-4f90-a603-ca61b2196c9d)
+
+
+##### Через redis-cli достаю все записанные ключи и значения из базы.
 

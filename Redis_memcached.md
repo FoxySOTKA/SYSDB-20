@@ -21,7 +21,8 @@
 
 #### Результат:
 
-![memcached](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/7ff0b96d-528d-4750-9ac7-b04e27605d72)
+![1memcached](https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/26dac637-4610-4935-8bdf-641550983976)
+
 
 ##### Выполнение команды systemctl status memcached.
 

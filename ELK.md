@@ -22,7 +22,7 @@
 
 <img width="876" alt="get" src="https://github.com/FoxySOTKA/SYSDB-20/assets/141597247/db902d62-915c-45e0-8b3d-44a1fd1d0cd9">
 
-##### Запрос GET /_cluster/health?pretty на странице http://<ip вашего сервера>:5601/app/dev_tools#/console интерфейса Kibana.
+##### Запрос GET /_cluster/health?pretty на странице моего сервера в интерфейсе Kibana.
 
 ---
 
